@@ -5,7 +5,7 @@
 var mapId = 'cmoser2.019i55ba';
 
 // And this is my access token, use yours.
-var accessToken = 'https://a.tiles.mapbox.com/v4/cmoser2.019i55ba/page.html?access_token=pk.eyJ1IjoiY21vc2VyMiIsImEiOiJTUnlSdklzIn0.fLdMmX-JC-xCuQuKK_AH4g#3/0.00/0.00';
+var accessToken = 'pk.eyJ1IjoiY21vc2VyMiIsImEiOiJTUnlSdklzIn0.fLdMmX-JC-xCuQuKK_AH4g#3/0.00/0.00';
 
 // Create the map object with your mapId and token,
 // referencing the DOM element where you want the map to go.
