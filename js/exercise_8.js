@@ -42,7 +42,7 @@ function getDirections(frm, to){
                   coordinates: routeShape
               },
               properties: {
-                   "stroke: "#ed23f1",
+                   "stroke": "#ed23f1",
                    "stroke-opacity": 0.8,
                    "stroke-width": 8
               }
