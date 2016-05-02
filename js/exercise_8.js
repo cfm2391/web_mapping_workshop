@@ -61,6 +61,4 @@ function getDirections(frm, to){
         $('#summary').append(direction);
       })
     })
-})
 
-}
