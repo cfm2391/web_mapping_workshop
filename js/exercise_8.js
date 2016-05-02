@@ -39,7 +39,7 @@ function getDirections(frm, to){
               type: 'Feature',
               geometry: {
                   type: 'LineString',
-                  coordinaes: routeShape
+                  coordinates: routeShape
               },
               properties: {
                    "stroke: "#ed23f1",
