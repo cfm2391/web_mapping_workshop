@@ -32,9 +32,4 @@ map.on('click',function(e){
 
 
 
-     var myGeoJSON = myLocation.getGeoJSON();
-     getDirections(myGeoJSON.geometry.coordinates, feature.geometry.coordinaters)
-}
-
-
 
