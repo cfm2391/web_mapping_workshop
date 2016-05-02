@@ -61,8 +61,6 @@ function getDirections(frm, to){
         $('#summary').append(direction);
       })
     })
-map.on('click', function(){
-  routeLine.clearLayers();
 })
 
 }
